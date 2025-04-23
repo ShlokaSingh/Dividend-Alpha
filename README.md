@@ -1,4 +1,5 @@
-# 📈 Dividend Income Tracker
+# 📈 Dividend Alpha: A Data Science Toolkit for Income Forecasting and Portfolio Yield Optimization
+
 
 A Python-based tool to analyze, forecast, and visualize dividend income for personal and professional finance management.
 
